@@ -544,11 +544,11 @@ form textarea {
 @media (max-width: 1245px) {
   header {
     padding: 12px 2.5%;
-    transition: 0.1s;
+    transition: 0.4s;
   }
   header.sticky {
-    padding: 10px;
-    transition: 0.1s;
+    padding: 12px 2.5%;
+    transition: 0.4s;
   }
   section {
     padding: 110px 3% 60px;
