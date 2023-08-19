@@ -1,3 +1,4 @@
+// particles on background script
 particlesJS('bg-particles', {
   particles: {
     number: {
@@ -69,11 +70,13 @@ particlesJS('bg-particles', {
   retina_detect: true,
 })
 
+// sticky header script
 const header = document.querySelector('header')
 window.addEventListener('scroll', function () {
   header.classList.toggle('sticky', window.scrollY > 100)
 })
 
+// menu dropdown when certain size
 let menu = document.querySelector('#menu-icon')
 let navlist = document.querySelector('.navlist')
 
