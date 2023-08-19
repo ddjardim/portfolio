@@ -171,10 +171,6 @@ section {
   justify-content: flex-start;
 }
 
-.home-text {
-  z-index: -10001;
-}
-
 .home-text h1 {
   font-size: var(--big-font);
   font-weight: 700;
