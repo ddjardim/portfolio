@@ -122,7 +122,6 @@ span {
   cursor: pointer;
   margin-left: 25px;
   display: none;
-  animation: slideInRight 0.7s ease;
 }
 
 section {
@@ -602,6 +601,7 @@ form textarea {
 @media (max-width: 840px) {
   #menu-icon {
     display: block;
+    animation: slideInRight 0.7s ease;
   }
 
   .navlist {
