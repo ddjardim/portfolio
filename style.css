@@ -122,7 +122,7 @@ span {
   cursor: pointer;
   margin-left: 25px;
   display: none;
-  animation: slideInLeft 0.7s ease;
+  animation: slideInRight 0.7s ease;
 }
 
 section {
