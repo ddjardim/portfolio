@@ -536,7 +536,6 @@ form textarea {
   font-size: 15px;
   color: var(--text-color);
   background: var(--main-color);
-  transform: translateY(3px)
 }
 
 @media (max-width: 1245px) {
