@@ -538,6 +538,10 @@ form textarea {
   background: var(--main-color);
 }
 
+.top i:hover {
+  transform: translateY(5rem)
+}
+
 @media (max-width: 1245px) {
   header {
     padding: 12px 2.5%;
